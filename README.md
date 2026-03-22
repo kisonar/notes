@@ -6,6 +6,10 @@ Kubernetes
 C#
 
 ## private
+
+### Google Bazel
+https://bazel.build/start/java
+
 ### JS
 TypeScript
 VueJs/nextJs
