@@ -20,6 +20,10 @@ Core - yield, sealed, record
 react
 Async features
 
+https://dev.java/learn/
+https://docs.oracle.com/en/java/javase/26/index.html
+
+
 #### GoogleCollections
 
 ### Kotlin
