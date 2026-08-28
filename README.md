@@ -7,6 +7,9 @@ C#
 
 ## private
 
+### LocalAI
+https://localai.io/docs/overview/index.html
+
 ### Google Bazel
 https://bazel.build/start/java
 
