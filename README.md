@@ -2,7 +2,9 @@
 Just notes
 
 ## work
+###
 Kubernetes
+###
 C#
 
 ## private
@@ -14,20 +16,22 @@ https://localai.io/docs/overview/index.html
 https://bazel.build/start/java
 
 ### JS
+```
 TypeScript
 VueJs/nextJs
 reactJS
-
+```
 ### Java 25
+```
 Core - yield, sealed, record
 react
-Async features
+Async features - new in 27
 
 https://dev.java/learn/
 https://docs.oracle.com/en/java/javase/26/index.html
+```
 
-
-#### GoogleCollections
+### GoogleCollections
 
 ### Kotlin
 ```
@@ -53,7 +57,13 @@ kafka
 
 ### Cloud
 AWS
-MiniCube
 
 ### Storage
-Reddis
+Redis
+
+## Others
+```
+Rozłącznik służy głównie do łączenia i odłączania obwodów pod obciążeniem roboczym (bez wyłączania prądów zwarciowych), natomiast wyłącznik potrafi dodatkowo wyłączać prądy zwarciowe i często pełni funkcję zabezpieczającą. 
+
+Odłącznikiem możemy wyłączyć wyłącznie obwody w stanie bezprądowym lub przy prądach o pomijalnie małej wartości
+```
